@@ -1,2 +1,3 @@
-flask
-pytube
+Flask
+yt-dlp
+gunicorn
